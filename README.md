@@ -27,7 +27,7 @@ I'm currently working on a project that involves building a web application usin
 
 Alongside my corporate work, I passionately publish helpful shortcuts and automation workflows for the Apple ecosystem on RoutineHub.
 
-[![RoutineHub](https://img.shields.io/badge/-RoutineHub-red?style=flat&logo=Shortcut&logoColor=white)](https://www.facebook.com/minh.nxm/)
+[![RoutineHub](https://img.shields.io/badge/-RoutineHub-red?style=flat&logo=Shortcut&logoColor=white)](https://routinehub.co/user/minh_nx)
 
 ## 🤝 Let's Connect
 
